@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" src="https://i.imgur.com/8QYc2F5.png" />
+<img align="right" alt="Coding" src="https://i.imgur.com/9HRl48M.png" />
 <p>&nbsp;</p>
 
 <h2 align="center">&nbsp;Technology Stack</h2>
