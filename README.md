@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" src="https://i.imgur.com/BKj1uQR.jpeg" />
 <p>&nbsp;</p>
 
-<p>I have 3 years of commercial programming experience, but I have been learning programming since I was 14 :baby:. Initially, I was programming websites in PHP, JavaScript and game plugins in C#. I moved to the next level of learning in 2019, I learned Node.js and React, then I started creating microservices. I started programming commercially at the end of 2020, creating web applications (CMS) mainly for sports and bookmaking companies. I implemented technological solutions for companies by using APIs to create analytical systems, which significantly contributed to increasing their earnings. Currently, I am a freelancer working with a well-known clothing company in Poland, developing its internal system.</p>
+<p>I have 4 years of commercial programming experience, but I have been learning programming since I was 14 :baby:. Initially, I was programming websites in PHP, JavaScript and game plugins in C#. I moved to the next level of learning in 2019, I learned Node.js and React, then I started creating microservices. I started programming commercially at the end of 2020, creating web applications (CMS) mainly for sports and bookmaking companies. I implemented technological solutions for companies by using APIs to create analytical systems, which significantly contributed to increasing their earnings. Currently, I am a freelancer working with a well-known clothing company in Poland, developing its internal system.</p>
 
 <p>&nbsp;</p>
 
